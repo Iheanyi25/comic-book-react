@@ -1,0 +1,16 @@
+.header {
+    width: 1440px;
+    height: 85px;
+    background-color: black;
+    display: inline-block;
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.links{
+    list-style: none;
+    display: inline-block;
+    margin-right: 25px;
+}
